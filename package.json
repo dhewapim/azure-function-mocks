@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "@nwisbeta/dhew-mocks": "0.0.4",
+    "node-forge": "^0.10.0"
+  }
+}
